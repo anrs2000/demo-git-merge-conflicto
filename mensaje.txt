@@ -1,5 +1,5 @@
-hola editado X4
-línea 1
+hola editado
+línea 1º
 línea 2
 línea 3
-línea x
+línea n
