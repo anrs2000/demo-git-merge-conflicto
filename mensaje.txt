@@ -1,5 +1,5 @@
-hola editado X2
+hola editado X4
 línea 1
-línea 2
-línea 3
-línea x
+línea 2º
+línea 3º
+línea enésima
