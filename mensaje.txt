@@ -1,5 +1,1 @@
-hola editado X4
-línea 1
-línea 2
-línea 3
-línea x
+tengo texto
